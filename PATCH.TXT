@@ -1,0 +1,196 @@
+MASO SOFTWAREN UUDISTUNEET YHTEYSTIEDOT
+========================================
+www: www.saunalahti.fi/forster
+e-mail: forster@saunalahti.fi
+MBNet: Mikko Forsstr”m
+
+Toivottavasti n„m„ nyt pit„v„t jonkun aikaa... Saunalahti p„„tti j„tt„„
+ilmoittamatta ettei ~ merkki„ en„„ tarvita... hienoa! Kiitos Saunalahti!
+
+MHM 99 PŽIVITYS VERSIOON 1.3
+===============================================================
+-lista uusista ominaisuuksista l”ytyy alempaa h”lp”tyksien j„lkeen.
+-Sama homma bugikorjauksista
+
+HUOMIO HUOMIO! ASEE-NTO!
+========================
+VALITETTAVASTI VERSIOIDEN 1.0, 1.1 TAI 1.2 TALLENNETUT TILANTEET EIVŽT OLE 
+YHTEENSOPIVIA VERSION 1.3 KANSSA JOHTUEN UUSISTA PELILLISISTŽ OMINAISUUKSIS-
+TA. OLEN PAHOILLANI, MUTTA TOIVOTTAVASTI UUDET HOMMELIT KORVAAVAT TŽMŽN VALI-
+TETTAVAN EPŽKOHDAN.
+
+ASENNUSOHJE:
+-------------
+PURA PAKETTI MHM 99 - HAKEMISTOOSI KOMENNOLLA PKUNZIP -D
+(TAI VASTAAVA, HAKEMISTOPOLUT HUOMIOIVA KOMENTO)
+
+**************************************
+*MUUTOKSET VERSIOSTA 1.2 VERSIOON 1.3*
+**************************************
+
+UUSIA OMINAISUUKSIA & PELILLISIŽ MUUTOKSIA:
+--------------------------------------------
+Mukaan tungettu alunperin kansainv„liseen k„ytt””n tarkoitettu editori
+josta on karsittu turhat ominaisuudet nyt pois ja j„ljelle j„tetty muutama.
+
+Mukaan laitettu my”s halli-kuvien katseluohjelma katsoja.exe - joku joskus
+kysyi sit„ ja tein sen ja nyt se on siis mukana tilaa viem„ss„!
+
+Vaikeustason m„„rittely meni viel„ kerran uusiksi... nyt se tarjonnee riit-
+t„v„sti vaihtoehtoja (viimein).
+
+Nimi„ on tullut paljon lis„„... editorilla voi viel„ lis„t„ vaikka kuinka
+paljon. Samalla my”s mahmax-nimigeneraattori on uusittu versionumeroonsa 6,
+jotta se osaa tutkia kuinka monta nime„ itseasiassa edes tietokannassa on...
+
+Statistiikkaan lis„tty messev„ graafi, k„ppyr„ tai miksi sit„ nyt haluaakaan
+kutsua... 
+
+BUGIKORJAUKSIA
+---------------
+Kaikkein vanhin (ja ihmeellisin, miksei kukaan ole huomannut?) bugi on
+nyt poissa. J„yni„ voi t„stedes tehd„ 3 kertaa KAUDESSA, ei 3 kertaa PELISSŽ.
+
+Alkuvalikko ei en„„ n„yt„ kaikkien k„ynniss„ olevien pelien senhetkist„ kaut-
+ta alimpana olevan pelin mukaan.
+
+Kauan sitten tarvittu ja mukaan j„„nyt toiminto jolla p„„see suoraan
+runkosarjan loppuun on poistettu.
+
+Poliisi-maalivahdin aiheuttama graafinen outous on poistettu.
+
+Jo aiemmin korjatun maalivahti_pistep”rssin_k„rjess„-bugin toinen muoto
+pelaajan_maalissa_p„„st„m„t_maalit_tehtyin„_maaleina on poissa.
+
+Muutama pienempi otus on liiskattu (niist„ ei sen enemp„„).
+
+**************************************
+*MUUTOKSET VERSIOSTA 1.1 VERSIOON 1.2*
+**************************************
+
+UUSIA OMINAISUUKSIA & PELILLISIŽ MUUTOKSIA:
+--------------------------------------------
+PŽŽMENUSSA on UUSI TOIMINTO, jota ei kuitenkaan n„y. Jos MHM 99 ei tunnu
+toimivan kunnolla, voit tarkistaa muutaman t„rke„n seikan tilan painamalla
+SHIFT-M.
+
+Peliin on piilotettu huijauskoodeja - etsi huijausmenu jos kiinnostaa???
+
+JOUKKUEIDEN VOIMASUHTEITA on muutettu vastaamaan oikeaksi osoittautunutta
+tilannetta, Maso Softwaren virallinen arvio on muodostunut v„„r„ksi muuta-
+man joukkueen kohdalla.
+
+JŽYNŽT ovat saaneet uutta verta KYTTŽYSKEIKAN muodossa... Nyt sinullakin
+on mahdollisuus suunnitella vastustajasi paniikkiin ajava lurkkimis-operaatio
+etk„ ole en„„ pelk„st„„n muiden managerien armoilla! Jos teill„ on mukavia
+j„yni„ takataskussa, kertokaa se heti niin katsotaan mit„ voin tehd„!
+
+UUSIA ERIKOISTAPAHTUMIA/UUTISIA on lis„tty jo ennest„„n laajaan katalookiin!
+Muunmuassa loukkaantuminen voi nyt pahimmassa tapauksessa kest„„ koko loppu-
+kauden, ja erikoispelaajiakin on enemm„n!
+       
+VANHOJA ERIKOISTAPAHTUMIA/UUTISIA on muokattu (parempaan suuntaan?).
+
+TILASTOKESKUKSEEN on ilmestynyt uutta, nimitt„in PHL:N MARATONTAULUKKO.
+Samaan syssyyn on sinne my”s ENNŽTYKSIIN lis„tty PHL:n ja DIVISIOONAN runko-
+sarjojen piste-enn„tykset joukkueiden osalta, ja managerien tilastoa on laa-
+jennettu voitoilla, tasapeleill„, tappioilla ja voittoprosenteilla runkosar-
+jan osalta.
+
+PANKKIEN KORKOTASO on noussut merkitt„v„ll„ tavalla! Nyt yli varojensa el„-
+vi„ rokotetaan kunnolla, joten velallakin on merkityst„... Samalla pankkien
+ennen niin avok„tinen lainauspolitiikka on muuttunut kitsaammaksi.
+
+HALLIEN RAKENNUSKUSTANNUKSIA ON NOSTETTU rankalla aisalla, nyt Vortex Arenan
+rakentaminen ei en„„ olekaan lasten leikki„!
+
+VAIKEUSTASOJA on hieman rukattu, nyt haastettakin pit„isi l”yty„ enemm„n vai-
+keilla tasoilla (ainakin minulle t„m„ on liian helppoa, kertokaa!)
+Samalla my”s vaikeustason valintaa on monipuolistettu jakamalla se sponsori-
+ja apulais- osioihin... HUOM! Sponsoriosasto vaikuttaa my”s joihinkin muihin
+ominaisuuksiin.
+
+TIETOKONEMANAGERIEN teko„ly„ valmennusstrategian suhteen on muutettu sen 
+verran, ett„ nyt ne pirut k„ytt„v„t hieman useammin muitakin kuin Simonovia.
+
+KATSOMOVALMENTAJAA on rukattu - nyt surkein heppuli saattaa kertoa sijoituk-
+setkin v„„rin!
+
+I.OJANSIVUN DIVISIOONAN KŽSITTŽMŽT™N PISTE-ENNŽTYS on muuttunut hiukan inhi-
+millisemm„ksi, joten nyt sen voi kenties jopa p„ihitt„„! 
+
+EHL:N TALOUDELLISTA HY™TYŽ on hiukan rukattu alasp„in, nyt pelaajille joudu-
+taan maksamaan palkkaa my”s EHL-otteluista (aiheuttaen sen, ett„ jos joukkue
+ei p„„se eteenp„in alkulohkosta on taloudellinen hy”ty kyseenalainen)
+
+SITŽ sun TŽTŽ SIELLŽ sun TŽŽLLŽ on muutettu pelattavuuden parantamiseksi.
+
+BUGIKORJAUKSIA
+---------------
+LOUKKAANTUMISTEN NOLLAANTUMINEN PLAY-OFFIEN ALKAESSA on historiaa...en ymm„r-
+r„, miksi n„in on tapahtunut, pakko kai tunnustaa kyseess„ olevan oma huoli-
+mattomuuteni. Noh, nyt systeemi toimii paremmin (ja lis„„ haastetasoa my”s,
+olen huomaavinani)
+
+TIETOKONEEN JOUKKUEIDEN pelaajien hassunhauskat kansallisuuden omaper„iset
+muutokset (K.Jurri, Slovakia ja sit„ rataa) on saatu kuriin...nyt valtioiden
+kansallisuudenmy”nt„mispolitiikka on sen verran tiukempi, ett„ suurin osa
+pelaajista pysyy oman kotimaansa kansalaisena?
+
+TURNAUKSIIN ILMOITTAUTUMISEN KATOAMINEN latauksen yhteydess„ on poissa!
+Nyt turnauksen j„rjest„j„t ovat siis niin yst„v„llisi„, ett„ antavat sinun
+tallentaa ja ladata ilman ett„ paikka menee sivu suun! Jeeeeee!
+
+TŽYDELLINEN RUNKOSARJAPISTEIDEN SEKOAMINEN siin„ vaiheessa, kun annat kenk„„
+jollekin pelaajistasi play-offien aikana on korjattu...nyt et itse asiassa
+edes VOI purkaa sopimuksia pleijareissa (no, eiv„th„n ne ota palkkaakaan!)
+
+O.J.OKISEN esiintyminen liian monella taholla on korjattu - nyt kahta O.J:t„
+ei voi (onneksi!) saada joukkueeseensa.
+
+MEGAVIHA toimii nyt paremmin, PHL-joukkueiden voima laskee divisioonaan tip-
+pumisen ohella t„stedes.
+
+KAUNEUSVIRHEITŽ on korjailtu, esim. kirojitusvirheit„ ja eritoten kauden lo-
+pussa joukkueiden v„lill„ siirtyvien pelaajien nimen edell„ oleva itseni pe-
+li„ tehdess„ni kauan sitten tarvitsema numero joka sinne p„„si perkule 
+unohtumaan, on nyt poissa!
+
+PIENTŽ MUUTOSTA SINNE SUN TŽNNE on tullut, ja uusien ominaisuuksien my”t„
+my”s uusia bugeja saattaa esiinty„...toivottavasti ei, mutta mik„„n ei ole
+varmaa! Edelleen ehdotuksia ja raportteja otetaan vastaan.
+
+***********************************************
+AIEMMAT MUUTOKSET VERSIOSTA 1.0 VERSIOON 1.1 
+***********************************************
+
+AUTOMAATTISEN TALLENNUKSEN YHTEYDESSŽ (KAUDEN ALUSSA) ESIINTYVŽ NEUVOTTELU-
+AIKABUGI (JOS LATAAT AUTOMAATTISESTI TALLENNETUN TILANTEEN, AIKAA ON JŽLJELLŽ
+JOKO 0, 99 TAI JOPA YLI SATA) ON KORJATTU.
+
+MUUT SUURET AUTOMAATTISEN TALLENNUKSEN KANSSA HAVAITUT ONGELMAT ON POISTETTU,
+nyt systeemi toimii!
+
+TALLENNUKSESSA ESIINTYNYT BUGI (TANSSIRYHMŽ JA CCCP-TABLETIT KATOAVAT) ON 
+KORJATTU.
+
+PELIN KAATUMISEEN JOHTAVA BUGI TILANTEESSA, JOSSA SINULLA ON MAKSIMIMŽŽRŽ PE-
+LAAJIA JA JOKIN ERIKOISPELAAJA TULEE JOUKKUEESEEN, ON KORJATTU.
+
+SOPUPELIN TOIMIVUUS KORJATTU - NYT SOPUPELIN OSTANEET HENKIL™T PITŽVŽT OTTE-
+LUA SOPUPELINŽ, VAIKKA SITŽ EI PŽŽLLE LAITTAISIKAAN MUTTA PELIN TULOS ON HEIL-
+LE MIELUINEN...
+
+SATTUMISTA SATTUMALTA L™YTYNYT PIENTEN BUGIEN SARJA (RAHAA EI KULU EIKŽ TULE
+MUUTAMISSA PAIKOISSA MISSŽ NŽIN ON TARKOITETTU) ON NYT POISSA.
+
+TILASTOKESKUKSESSA ESIINTYVŽ OHJERIVIBUGI (KUN MENET RUNKOSARJA-KOHTAAN, KOKO
+OHJERIVI KATOAA) ON KORJATTU.
+
+MUUTAMA KIRJOITUSVIRHE ON KORJATTU.
+
+MUUTAMA OUTOUS, JOISTA EI SEN ENEMPŽŽ, ON KORJATTU.
+
+PISTEP™RSSIIN LISŽTTY NŽKYMŽŽN PELAAJAN KANSALLISUUS (jolloin kansallisuuk-
+sissa esiintyv„ bugi n„kyy paremmin, jee jee...korjattu versioon 1.2)
+

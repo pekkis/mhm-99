@@ -1,0 +1,36 @@
+Maso Softwaren j„„kiekkomanagerisimulaatioperhe saanee sittenkin
+uuden j„senen - MHM 2K-projekti on virallisesti aloitettu. Sit„, ilmestyyk”
+MHM 2K vuoden 1999 puolella, ei kukaan viel„ osaa sanoa vaan projekti etenee
+omia aikojaan. N„in aivan projektin ensimm„isen„ p„iv„n„ voin kuitenkin
+valottaa tulevaisuutta sen verran kuin se on mahdollista kun melkein kaikki
+on viel„ auki.
+
+1. Liiallinen suuruudenhulluus on j„lleen kerran k„rsinyt tappion. Talven
+mittaan k„vi varsin selv„ksi se, ett„ Windows 95-maailmaan siirtyminen ja
+mahtipontisen MHM 2K-projektin yhteenliitt„minen oli virhe. Peli ei olisi
+mill„„n ehtinyt miss„„n inhimillisess„ ajassa ulos, eik„ laadusta olisi ollut
+miss„„n nimess„ mink„„nlaisia takuita. Siksi MHM 2K tulee olemaan tavallaan
+v„limallin versio, ominaisuuksiltaan huomattavasti kehittyneempi kuin MHM 99
+mutta edelleen DOS-pohjainen tuote mutta luonnollisesti se tulee toimimaan
+my”s windowsin alta ilman ongelmia.
+
+2. Hyv„sti 640 kilotavua! Se on varmaa, ett„ MHM 2K tulee vaatimaan useamman
+megatavun muistia, ja sis„lt„„ valtasti enemm„n tilastoja, ominaisuuksia ja
+l„hinn„ kaikkea. Lis„„ntynyt kapasiteetti v„hent„„ merkitt„v„sti my”s kova-
+levyn rutrausta, kun kaikkea dataa ei tarvitse tarpeen tullen hakea levylt„
+vaan se l”ytyy muistista jo valmiiksi.
+
+3. Verkkopeli„ ei varmastikaan tule valitettavasti MHM 2K:sta l”ytym„„n,
+mutta suureellisia visioita moninpelin suhteen kyll„ p„„st„ni l”ytyy...pit„„
+katsoman tosin miten homma l„htee etenem„„n, josko sarjakaapeliyhteys jollain
+tapaa onnistuisi??? (jos vain taitoni riitt„v„t niin eik”h„n)
+
+4. MHM 99:si„ koskien sain valtavan m„„r„n palautetta, ehdotuksia ja ties
+mit„. N„iden toteuttaminen on nyt mahdollista, kun muisti ei ole ongelma.
+Itsell„nikin on huikeita visioita, jotka saan nyt my”s toteutettua.
+
+5. Laitevaatimukset nousevat. N„in on. MHM 2K k„ytt„„ puhdasta 386-koodia,
+joten sit„ pienemm„ll„ se ei edes k„ynnisty. 486/66 riitt„nee, mutta
+jos vaatimukset kallistuvat Pentiumin puoleen niin antaa menn„ vain on asen-
+teeni.
+

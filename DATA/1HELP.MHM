@@ -1,0 +1,41 @@
+NIMI              PELAAJAN NIMI
+KAN               PELAAJAN KANSALLISUUS ---------> PLN PEKKALANDIA 
+                                                   SWE RUOTSI  GER SAKSA
+                                                   ITA ITALIA  RUS VENŽJŽ
+                                                   TCH TSEKKI  EST EESTI
+                                                   LAT LATVIA  CAN KANADA
+                                                   USA YHDYSVALLAT
+                                                   SWI SVEITSI  SVK SLOVAKIA
+
+PP                PELAAJAN PELIPAIKKA  ---------> MV=MAALIVAHTI PU=PUOLUSTAJA
+                                                  VH=VASEN LAITAHY™KKŽŽJŽ
+                                                  KH=KESKUSHY™KKŽŽJŽ
+IK                PELAAJAN IKŽ                    OH=OIKEA LAITAHY™KKŽŽJŽ
+TA                PELAAJAN TAITO (1-20)
+TILA              PELAAJAN TILA ----------------> OK=NORMAALI
+                                                  LO=LOUKKAANTUNUT
+                                                  PK=PELIKIELLOSSA
+SIVU 'TILASTOT'                                   VI=HUUMEVIEROITUKSESSA
+===============
+KU       PELAAJAN KUNTO, 0 TAI SUUREMPI OK, -1 TAI PIENEMPI VŽSYMYSTŽ
+POK      PELAAJAN PELAAMAT SARJAOTTELUT JOUKKUEESSASI KAIKKINA AIKOINA
+PO       PELAAJAN PELAAMAT SARJAOTTELUT TŽLLŽ KAUDELLA
+M        TEHDYT MAALIT KULUVALLA KAUDELLA
+S        SY™TT™PISTEET KULUVALLA KAUDELLA
+P        KOKONAISPISTEET KULUVALLA KAUDELLA
+
+SIVU 'SOPIMUKSET'
+=================
+SVU      SOPIMUSVUODET, KULUVA KAUSI MUKANA
+SRA      PALKKA/KIERROS
+MUUTA    LŽHD™SSŽ POIS, LAINASSA JNE.
+
+SIVU 'ERIKOISOMINAISUUDET'
+==========================
+ERIK     MAHDOLLINEN ERIKOISOMINAISUUS
+
+SIVU 'RUNKOSARJA' (VAIN PLAYOFFEISSA)
+=====================================
+M        MAALIT RUNKOSARJASSA
+S        SY™T™T RUNKOSARJASSA
+P        PISTEET RUNKOSARJASSA

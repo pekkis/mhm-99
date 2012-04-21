@@ -1,0 +1,35 @@
+LuleÜ,Luulaja,8,35
+FÑrjestad,Karlstad,8,36
+HV-71,Jînkîping,8,35
+DjurgÜrden,Tukholma,8,36
+AIK,Tukholma,8,34
+BrynÑs,GÑvle,8,32
+Malmî,Malmî,8,34
+Rouen,Rouen,5,26
+Amiens,Somme,5,25
+Brest,Brest,5,24
+Kîln,Kîln,6,31
+Huskies,Kassel,6,32
+Mannheim,Mannheim,6,29
+EisbÑren,Berliini,6,31
+Sparta,Praha,6,35
+Budejovice,Budejovice,6,34
+Vitkovice,Vitkovice,6,33
+HC Petra,Vsetin,6,33
+Slovan,Bratislava,5,31
+Dukla,Trencin,5,31
+Kosice,Kosice,5,30
+Storm,Manchester,12,24
+Feldkirch,Feldkirch,1,29
+ZSKA,Pietari,7,32
+Dynamo,Moskova,7,32
+Torpedo,Jaroslavl,7,33
+Lada,Togliatti,7,32
+ZSKA,Moskova,7,31
+Davos,Davos,6,32
+Bern,Bern,6,33
+Zug,Zug,6,33
+Rapperswil,Rapperswil,6,32
+ZÅrich,ZÅrich,6,32
+HC Bolzano,Bolzano,6,25
+Devils,Milano,5,24
